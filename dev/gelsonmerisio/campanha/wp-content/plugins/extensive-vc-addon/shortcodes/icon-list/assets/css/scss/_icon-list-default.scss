@@ -1,0 +1,73 @@
+/* ==========================================================================
+   Icon List shortcode style - begin
+   ========================================================================== */
+
+.evc-icon-list {
+	@include evcRelativeLayout();
+
+	.evc-il-item {
+		@include evcRelativeLayout();
+		margin-bottom: 8px;
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+		
+		&.evc-ili-has-link {
+			
+			.touch & {
+				cursor: pointer;
+			}
+			
+			&:hover {
+				
+				.evc-ili-text {
+					@include evcTransform(translateX(8px));
+				}
+			}
+		}
+	}
+	
+	.evc-ili-inner {
+		position: relative;
+		display: inline-block;
+		vertical-align: top;
+		
+		> * {
+			display: table-cell;
+			vertical-align: top;
+		}
+	}
+
+	.evc-ili-icon-wrapper {
+		padding-right: 15px;
+		color: $main-color;
+		
+		* {
+			display: block;
+			line-height: inherit;
+			color: inherit;
+			
+			&:before {
+				display: block;
+				line-height: inherit;
+			}
+		}
+	}
+
+	.evc-ili-text {
+		position: relative;
+		margin: 0;
+		@include evcTransform(translateX(0));
+		@include evcTransitionTransform(.3s ease);
+	}
+	
+	.evc-ili-link {
+		@include evcAbsoluteLayout();
+		z-index: 1;
+	}
+}
+
+/* ==========================================================================
+   Icon List shortcode style - end
+   ========================================================================== */

@@ -1,0 +1,4 @@
+[28-Aug-2018 02:16:07 UTC] PHP Fatal error:  Out of memory (allocated 96206848) (tried to allocate 65552 bytes) in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/shortcodes.php on line 451
+[28-Aug-2018 02:17:19 UTC] PHP Fatal error:  Out of memory (allocated 96206848) (tried to allocate 65552 bytes) in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/shortcodes.php on line 451
+[28-Aug-2018 13:39:30 UTC] PHP Fatal error:  Out of memory (allocated 96468992) (tried to allocate 130968 bytes) in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-hook.php on line 203
+[28-Aug-2018 13:56:02 UTC] PHP Fatal error:  Out of memory (allocated 96468992) (tried to allocate 130968 bytes) in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-hook.php on line 203

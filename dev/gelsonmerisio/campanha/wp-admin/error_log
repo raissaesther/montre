@@ -1,0 +1,10 @@
+[20-Aug-2018 02:30:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-image-editor-imagick.php on line 354
+[20-Aug-2018 02:49:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-image-editor-imagick.php on line 354
+[26-Aug-2018 23:04:50 UTC] PHP Fatal error:  Cannot redeclare class VC_ACS in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-content/plugins/ultimate-carousel-for-visual-composer/main.php on line 4
+[26-Aug-2018 23:04:53 UTC] PHP Fatal error:  Cannot redeclare class VC_ACS in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-content/plugins/ultimate-carousel-for-visual-composer/main.php on line 4
+[26-Aug-2018 23:05:00 UTC] PHP Fatal error:  Cannot redeclare class VC_ACS in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-content/plugins/ultimate-carousel-for-visual-composer/main.php on line 4
+[28-Aug-2018 00:50:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-image-editor-imagick.php on line 354
+[28-Aug-2018 13:23:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-image-editor-imagick.php on line 362
+[28-Aug-2018 14:09:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-image-editor-imagick.php on line 362
+[28-Aug-2018 14:10:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-image-editor-imagick.php on line 354
+[28-Aug-2018 14:11:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/montr035/public_html/dev/gelsonmerisio/campanha/wp-includes/class-wp-image-editor-imagick.php on line 354
